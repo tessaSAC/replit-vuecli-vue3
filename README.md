@@ -1,6 +1,6 @@
 # hello-vue
 
-### Before you get started
+## Before you get started
 Make sure to enter the project directory!
 ```
 cd hello-vue
