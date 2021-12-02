@@ -1,1 +1,10 @@
-run = "node index.js"
+# The command that is executed when the run button is clicked.
+run = "sh run.sh"
+
+# The default file opened in the editor.
+entrypoint = "hello-vue/src/App.vue"
+
+# Packager configuration for the Universal Package Manager
+# See https://github.com/replit/upm for supported languages.
+[packager]
+language = "javascript"
